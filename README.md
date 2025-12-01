@@ -1,6 +1,7 @@
 # **IVT-3WLA**
 ### *Temporal Variability Index for the 3-Week Lookahead (3WLA)*  
 A collaborative repository for methods, templates, examples, and community contributions.
+If you would like to contribute values for your industry, you may send me your completed Excel file to the following email address: alderpch@hotmail.com
 
 ---
 
